@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/appointments"
+        android:title="Appointments"
+        android:icon="@drawable/appointments_twotone"/>
+    <item
+        android:id="@+id/schedule"
+        android:title="Schedule"
+        android:icon="@drawable/schedule_placeholder"/>
+
+    <item
+        android:id="@+id/clinics"
+        android:title="Clinics"
+        android:icon="@drawable/hospital_twotone"/>
+
+</menu>
