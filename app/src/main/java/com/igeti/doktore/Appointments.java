@@ -38,8 +38,10 @@ public class Appointments extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_appointments);
+
         requestQueue = Volley.newRequestQueue(getApplicationContext());
         apps = (TextView) findViewById(R.id.prikazAppTextView);
+
         // Initialize and assign variable
         BottomNavigationView bottomNavigationView=findViewById(R.id.bottom_navigation);
 
