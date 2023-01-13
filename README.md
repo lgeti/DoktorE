@@ -10,13 +10,13 @@ Using the volley dependency, the app accesses the REST API implemented on the we
 
 Functionalities:
 
-You can create an appointment the user only needs to go over to the "Schedule" activity, input the date, doctor's ID and the patient's ID, and press "SUBMIT"
+You can create an appointment the user only needs to go over to the "Schedule" activity, input the date, doctor's ID and the patient's ID, and press "SUBMIT".
 ![image](https://user-images.githubusercontent.com/76261368/212378673-d909fbf8-97ac-4dc8-a4a4-7485c6148b4f.png)
 ![image](https://user-images.githubusercontent.com/76261368/212379591-ae4ba3fd-9f77-4cc4-928e-acd78f963b96.png)
 
 Heading over to the "Appointmets" section, there's a "SHOW APPOINTMENTS" button, which when pressed shows all the appointments present on the database. 
 ![image](https://user-images.githubusercontent.com/76261368/212379230-0f37019d-ce6b-4f55-80c9-027bc89ecf5e.png)
-![image](https://user-images.githubusercontent.com/76261368/212379309-73d291e8-e00a-4f1e-b140-60718346f00e.png)
+![image](https://user-images.githubusercontent.com/76261368/212380068-619e7f3c-9d00-4a06-b169-5e719843f2a7.png)
 
 The "Clinics" section presents available clinics, after pressing the "SHOW CLINICS" button.
 ![image](https://user-images.githubusercontent.com/76261368/212379787-581918b5-2fd7-44e7-b203-5429d866b04a.png)
