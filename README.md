@@ -1,5 +1,6 @@
-Naslov seminarske naloge: Doktor-e
-Ignat Pocevski 63200393
+Naslov seminarske naloge: Doktor-e |
+Ignat Pocevski 63200393 |
+Github: https://github.com/lgeti/DoktorE |
 
 The “Doktor-e” platform allows health-care providers to access their cloud database to create and read data from it.
 
